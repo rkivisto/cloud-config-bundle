@@ -6,6 +6,7 @@ globalCloudBeesPipelineTemplateCatalog:
     scm:
       github:
         configuredByUrl: true
+        credentialsId: "github"
         id: "3a403cac-c19f-41fe-9433-b30ead9bc91b"
         repoOwner: "poc-prep"
         repository: "poc-pipeline-template-catalog"
